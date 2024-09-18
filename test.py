@@ -1,6 +1,5 @@
 import os
 import time  # To measure time
-from dotenv import load_dotenv
 import streamlit as st
 import tempfile
 from audio_recorder_streamlit import audio_recorder
